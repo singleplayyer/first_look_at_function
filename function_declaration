@@ -1,0 +1,4 @@
+//ОБЪЯВЛЕНИЕ ФУНКЦИИ
+function () {} //анонимная функция (?)
+function [name](param, param, param) {}
+var [name] = function() {}
